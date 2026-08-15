@@ -1,0 +1,7 @@
+firebase-debug.log*
+.firebase/
+node_modules/
+.pnpm-store/
+functions/node_modules/
+public/js/config/firebase-config.local.js
+coverage/
